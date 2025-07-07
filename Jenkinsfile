@@ -1,4 +1,4 @@
-Pipelin{
+Pipeline{
 	agent{label 'Jenkins-Agent'}
 	tools{
 		jdk 'Jave17'
